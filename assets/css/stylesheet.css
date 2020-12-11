@@ -1022,6 +1022,74 @@ css: people
   }
 }
 
+
+.cardfaculty {
+  border-radius: 6px;
+  border-left: 2px solid #865e3d;
+  border-bottom: 2px solid #865e3d;
+  border-top: 2px solid #865e3d;
+  border-right: 2px solid #865e3d;
+
+  height: 220px;
+  background:#fff8e5;
+  padding:1vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rschtip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 2px solid #b38656;
+  border-radius: 5px;
+  padding: 0px 10px;
+  font-size:12px;
+  background-color:#ffe5c7;
+}
+
+.rschtip .rschtext {
+  visibility: hidden;
+  width: 30vw;
+  background-color: #e0f7ff;
+  color: black;
+  text-align: left;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 1px solid #ffcc80;
+  top: 100%;
+  left: 50%;
+  margin-left: -100px;
+  margin-top: 5px;
+  font-size:12px;
+  position: absolute;
+  z-index: 1;
+}
+
+.rschtip:hover .rschtext {
+  visibility: visible;
+}
+
+.rschtip .rschtext::after {
+  content: " ";
+  position: absolute;
+  top: 5px; /* At the bottom of the tooltip */
+  left: 40%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black black black black;
+}
+/* faculty - reference image to scale - 130 x 160 */
+
+.faculty-img2 {
+  height:190px;
+  border-radius:5px;
+  border: 2px solid #6d3609;
+}
+
 #search-page-div input {
   width: 91%;
   height: 50px;
