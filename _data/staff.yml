@@ -1,0 +1,25 @@
+- name: Balavardhi Raju
+  imgsrc: /assets/images/staff/raju.jpg
+  designation: Technical Officer
+  email: bvraju@msme.iith.ac.in
+
+- name: Dr. Upender Sunkari
+  imgsrc: /assets/images/staff/upender.jpg
+  designation: Technical Officer
+  email: upender@msme.iith.ac.in
+  profile: https://upendersunkari.weebly.com/
+
+- name: Chinnam Sivateja
+  imgsrc: /assets/images/staff/Sivateja.jpg
+  designation: Technical Superintendent
+  email: chinnam.sivateja@msme.iith.ac.in
+
+- name: M. V. Srinivas
+  imgsrc: /assets/images/staff/srinivas.jpg
+  designation: Junior Technician
+  email: mvsrinivas@msme.iith.ac.in
+
+- name: E. Rangaiah
+  imgsrc: /assets/images/staff/rangaiah.jpg
+  designation: Junior Technician
+  email: erangaiah@msme.iith.ac.in

@@ -1,0 +1,26 @@
+###############################################################
+###############                                 ###############
+############### Edit this page for quick links  ###############
+###############                                 ###############
+###############################################################
+
+- name: Application open for JRF position in MSME department (Click Here)
+  url: /assets/docs/FileAdv/Advertisement_JRF_MSME_20032021.pdf
+  direct: true
+
+- name: ASEAN PhD Fellowship Programme is now open (Click Here for further details)
+  url: https://asean.iitd.ac.in/
+  direct: false
+
+- name: Dr. Suresh Kumar G. has joined the MSME department.
+  direct: true
+
+- name: Application open for JRF position in MSME department (Click Here)
+  url: https://iith.ac.in/assets/files/careers/staff/Advertisement_JRF_06102020.pdf
+  direct: false
+
+- name: Dr. Deepu Babu has joined the MSME department on 29 September 2020
+  direct: true
+
+- name: Seminar by Prof. Janaki Ram is scheduled for 7 August 2020
+  direct: true

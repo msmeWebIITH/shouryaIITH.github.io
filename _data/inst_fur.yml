@@ -1,0 +1,31 @@
+- name: Induction-melting furnace
+  incharge: Prof. P. P. Bhattacharjee
+  email: pinakib
+
+- name: High Temperature Vacuum Furnace
+  incharge: Dr. Ranjith R.
+  email: ranjith
+
+- name: Infra-red rapid heating furnace
+  incharge: Prof. P. P. Bhattacharjee
+  email: pinakib
+
+- name: Muffle furnace
+  incharge: Dr. Ranjith R.
+  email: ranjith
+
+- name: Tube furnace
+  incharge: Dr. B. B. Panigrahi
+  email: bharat
+
+- name: Salt-bath furnace
+  incharge: Dr. P. P. Bhattacharjee
+  email: pinakib
+
+- name: Autoclave
+  incharge: Dr. Mudrika Khandelwal
+  email: mudrika
+
+- name: Three zone tubular furnace
+  incharge: Dr. Rajesh Korla
+  email: rajeshk

@@ -1,0 +1,86 @@
+/*
+file: sidebar.css;
+*/
+.divider {
+  margin-top: 0;
+  margin-bottom: 0;
+  border-width: 1px;
+}
+
+#nav {
+  ul {
+    list-style: none;
+    margin-bottom: 0;
+
+    li {
+      button {
+        display: block;
+        padding: 6px 24px 6px 24px;
+        color: rgba(71, 17, 24, 1);
+        text-decoration: none;
+        outline: 0;
+        border: 0;
+        @include vendor('transition', 'none');
+
+        span {
+          position: relative;
+          display: block;
+          font-size: 0.8em;
+        }
+
+        span:before {
+          position: absolute;
+          left: 0;
+          color: #41484c;
+          text-align: center;
+          width: 1.25em;
+          line-height: 1.75em;
+        }
+
+        .active {
+          background: rgba(0, 0, 0, 0.15);
+          box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
+          color: #b62b3e;
+
+          span:before {
+            color: #e27689;
+          }
+        }
+      }
+    }
+  }
+}
+
+#nav .dropdown-btn {
+  -webkit-transition-timing-function: ease-in-out;
+  display: block;
+  padding: 6px 24px 6px 24px;
+  color: rgba(71, 17, 24, 1);
+  text-decoration: none;
+  outline: 0;
+  border: 0;
+
+  span {
+    position: relative;
+    display: block;
+    font-size: 0.8em;
+    position: absolute;
+    left: 0;
+    color: #41484c;
+    text-align: center;
+    width: 1.25em;
+    line-height: 1.75em;
+  }
+
+  span::before {
+    background: rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
+    color: #e27689;
+  }
+}
+
+#nav dropdown-tabs {
+  display: none;
+  background-color: #262626;
+  padding-left: 8px;
+}

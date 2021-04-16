@@ -1,0 +1,21 @@
+/*
+css: publications
+ */
+
+.pubs header {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.pubs ul {
+  list-style-type: disc;
+}
+
+.pubs ul > li {
+  text-align: left;
+}
+
+.pubs ul > li > a {
+  color: #d94c65;
+  text-decoration: none;
+}

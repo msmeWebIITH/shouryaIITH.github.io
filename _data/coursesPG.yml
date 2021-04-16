@@ -1,0 +1,150 @@
+- title:  Functional Properties of Materials
+  courseID: MS5010
+  credits: 3
+  contents: Electrical Properties:Introduction, Basic concept of electric conduction, Free electron and Band theory, Classification of materials, Insulator, Semiconductor, Metal, Superconductor etc. novel materials, some recent trends, Magnetic Properties:Introduction, Orgin of magnetism, Units, Types of magnetic ordering:dia-para-ferro-ferri and antiferromagnetism, Soft and Hard magnetic materials, examples of some magnetic materials with applications, CMR, magnetocaloric materials and spin glasses, Dielectric and ferroelectric properties:Dielectric constant and polarizability, temperature and frequency effects, electric breakdown, structural phase transitions, Ferroelectric crystals, Classification of ferroelectric materials:piezo-pyro and anti-ferroelectric materials, multiferroic materials, relaxor materials, Optical Properties:Introduction - Interaction of light with electrons in solids; absorption, colour, refraction, polarization, optical process, semiconducting devices like photodiode, solar cell, LED and Lasers, Mechanical properties:Introduction, elastic, anelastic and viscoelastic behaviour, stress-strain relationship, plastic deformation, Creep, fatigue, elasticity, plasticity, superplasticity, viscoelasticity and creep of metals, polymers, ceramics, Special topics:Biomaterials, Nanomaterials, Composite materials, MEMS applications
+
+
+- title: Electron Microscopy
+  courseID: MS5020
+  credits: 3
+  contents: Principles of electron microscopy-scattering mode and transmission mode. SEM, TEM, electron diffraction and X-ray, Resolution and magnification, Instrumentation (electron gun, acceleration, magnification, etc), Aberration, distortion and mitigation, Applications of SEM:Surface morphology, qualitative and quantitative phase analysis, Applications of TEM:Bright Field and Dark Field imaging, diffraction, resolution and magnification, Limitations of electron microscopy, Recent developments in electron microscopy
+
+- title: Material ysnthesis and Characterisation
+  courseID: MS5030
+  credits: 3
+  contents: Crystal Structure:Crystalline solids, crystal systems point groups:methods of characterizing crystal structure - Powder x-ray diffraction; types of close packing - hcp and ccp, packing efficiency, radius ratios; structure types with examples. Basics of Solid State Synthesis:Powder synthesis and compactionprecipitative reactions, sol-gel route, precursor method, ion exchange reactions, intercalation/deintercalation reactions, powder metallurgy; Bulk synthesisSolidification from melt (amorphous and crystalline), electrodeposition, thin film preparation. Characterization Techniques:Thermal analyses (differential scanning calorimetry, thermogravimetric), microscopy (light, X-ray, electron) and spectroscopy. Crystal Structure:Crystalline solids, crystal systems point groups:methods of characterizing crystal structure - Powder x-ray diffraction; types of close packing - hcp and ccp, packing efficiency, radius ratios; structure types with examples. Basics of Solid State Synthesis Powder synthesis and compactionprecipitative reactions, sol-gel route, precursor method, ion exchange reactions, intercalation/deintercalation reactions, powder metallurgy; Bulk synthesisSolidification from melt (amorphous and crystalline), electrodeposition, thin film preparation. Characterization Techniques:Thermal analyses (differential scanning calorimetry, thermogravimetric), microscopy (light, X-ray, electron) and spectroscopy.
+
+- title: Thermomechanical Processing of Materials
+  courseID: MS5040
+  credits: 3
+  contents: Introduction to thermo mechanical processing, Hardening mechanisms, Static and dynamic softening processes, Crystallographic texture development during thermo mechanical processing,Different thermo mechanical processing techniques, Residual stress in thermo mechanical processing, Defects in thermo mechanical processing Case studies:Thermo mechanical processing of steel, aluminum, magnesium, titanium and other advanced alloy systems, Recent trends in thermo mechanical processing
+
+- title: Advanced Physical Metallurgy
+  courseID: MS5650
+  credits: 3
+  contents: General Introduction, Structure of solids, Characterization techniques- Xray & Electron Diffraction, Imperfections in solids including fundamentals of dislocations, Strengthening mechanisms, Phase and phase diagrams, Diffusion in solids, Phase transformation in materials Mechanical behavior of materials, Materials degradation and corrosion, Important Engineering materials
+
+- title: Introduction to Computational Methods in Materials Science
+  courseID: MS5140
+  credits: 3
+  contents: Basic concepts of modeling and simulation in materials science and engineering - why do we need to model across length scales; concepts of transport phenomena - conservation
+
+- title: Thin-Films Technology
+  courseID: MS5080
+  credits: 3
+  contents: Introduction to thin films:Definition of thin films - Formation of thin films (sticking coefficient, formation of thermodynamically stable cluster - nucleation) - Environment (Gas phase and plasma) for thin film deposition; Deposition parameters and their effects on film growth, Substrates – overview of various substrates utilized. Vacuum technology:Concept of different vacuum pumps:rotary, diffusion, Turbo molecular pump, Cryogenic-pump, Ti-sublimation pump, Concept of different gauges:pirani, penning, Pressure Control – Mass flow controllers. Physical vapor deposition (PVD) techniques:Evaporation- Thermal evaporation, Electron beam evaporation; Laser ablation; Ion beam evaporation and Cathodic arc deposition, Molecular Beam Epitaxy. Glow discharge Sputtering- DC and RF Sputtering; Magnetron sputtering; Ion beam sputtering – Reactive sputtering Chemical vapor deposition techniques:Advantages and disadvantages of Chemical vapor deposition (CVD) techniques over PVD techniques, Different kinds of CVD techniques:Metallorganic (MO) CVD, Thermally activated CVD, Plasma enhanced CVD, Atomic layer deposition (ALD)- Importance of ALD technique. Epitaxy – Introduction:Epitaxial growth- Growth kinetics of epitaxy, Growth modes – illustration of crystallographic relations with thin film to substrate, characterization of epilayers (insitu and exsitu) – RHEED – XRR, Utilization of various methods to grow epilayers (PVD and CVD) Thickness Determination techniques:Thickness determination methods in thin film (insitu and exsitu) – Non Destructive Techniques - quartz crystal monitoring technique, optical interferometry, Ellipsometry,
+
+- title: Advanced Materials Synthesis
+  courseID: MS5090
+  credits: 3
+  contents: Crystalline solids, crystal systems point groups:methods of characterizing crystal structure - Powder x-ray diffraction; types of close packing - hcp and ccp, packing efficiency, radius ratios; structure types with examples. Basics of Solid State Synthesis and its Characterization techniques Solid state chemistry reaction:precipitative reactions, sol-gel route, precursor method, ion exchange reactions, intercalation / deintercalation reactions, glasses, thin film preparation and solidification from melts. Thermal analysis, microscopy and spectroscopy as tools of characterization. Functional Materials Low dimensional Materials, Electronic & Magnetic Materials, Superconductors, Mott insulators, Bethe Slater Curve, Thermoelectric Materials, Optical Materials, PbMo6S8, NiO, La2CuO4. Biomaterials Introduction; Requirements (Mechanical Properties, Biocompatibility, High corrosion and wear resistance, Osseointegration); Currently used metallic biomedical materials and their limitations; Ti alloys (thermomechanical processing, microstructure and properties, wear, corrosion behavior, surface modification); Ti alloys used in Dentistry; Next generation biomaterials â€“ Nanophase materials Energy Conversion and Energy Storage Materials Energy Conversion Materials (Thermoelectric materials, Piezoelectric materials, Solar cells); Energy Storage Materials (Li-ion Batteries, Fuel Cells and Nickel-MH batteries, Hydrogen storage)
+
+- title: Composite Materials
+  courseID: MS5100
+  credits: 3
+  contents: General Introduction, Classification of composites Strengthening mechanism in composite Mechanics of composite materials Types of reinforcements- particles, whiskers, fibers Dispersion hardened composites Fiber reinforcement composites- continuous and discontinuous fiber reinforcement composites Metal matrix composite, Metal matrix composite, carboncarbon composites, molecular composites, multilayer composites, ceramic matrix composites polymer matrix composites, thermoelastic and thermoplastic composites, biocomposites Liquid metal route, powder metallurgy route and in-situ composites Production of diamond tools and cermets, composite coatings, electrodeposition techniques, spray forming, characterization of composites Effect of orientation and adhesion, interfaces and interphases Effect of reinforcement materials size and shapes on properties Mechanical behaviour of composites, stress-strain relations, elastic properties, thermal stresses, strength, fracture, toughness, fatigue, creep and wear
+
+- title: Scientific Writing and Ethics in Research
+  courseID: MS5110
+  credits: 3
+  contents: A journey from writing a manuscript till sending it to the journal Introduction to the journal formats related to science and engineering streams Arrangements of research outcomes into journal format; Basic English grammar skills for writing manuscripts Rules of manuscript writing like tables, equations, figures, references, cover letter, etc To reaffirm the right human morals while performing research, ethics of correct scientific practices will be taught in details
+
+- title: Materials for Green Energy
+  courseID: MS5120
+  credits: 3
+  contents: Green energy resources Introduction to non- conventional energy resources, overview of current developments Sustainable Energy resources Overview of fuel cell technology and introduction to various type of fuel cell i.e. solid oxide fuel cell (SOFC), proton exchange membrane fuel cell (PEM), phosphoric acid fuel cell etc SOFC Principles of SOFC, types of fuel, reforming reactions, components of SOFC, Typical component materials and their characteristics, commercial fabrications processes, current trends and future outlook SOFC technology. PEM Fuel Cell Typical component materials and their characteristics, commercial fabrications processes, current trends and future outlook for PEM fuel cell technology. Energy harvesting Overview of wind energy, solar energy technology Solar cells :Overview of solar cell technology, principles of solar cell technology, Silicon based solar cells, fabrications and latest development, Non-Si and organic solar cells Energy Storage :Li-ion battery technology:basics of Li-ion battery, battery components, current trends and challenges Hydrogen storage materials
+
+- title: Powder Metallurgy Manufacturing
+  courseID: MS5130
+  credits: 3
+  contents: Introduction to powder metallurgy manufacturing, historical perspective, scope of powder metallurgy industries Techniques of near net shape manufacturing, techniques of powder manufacturing Characterization of powders, relation between powder production method and powder characteristics, powder compaction methods powder injection moulding Introduction to sintering, driving forces of sintering, stages of sintering, solid state sintering, liquid phase sinterin, pore morphology, sintering of mixed powders, Sintering techniques, sintering atmosphere, postsintering operations Problems of nano-powders during compaction and sintering, sintering mechanisms, sintering diagrams Powder metallurgy products:bearings, filters, friction parts, electrical contact materials, porous parts, functionally graded materials.
+
+- title: Introduction to Computational Methods in Materials Science
+  courseID: MS5140
+  credits: 3
+  contents: Tensors in Materials Science, Computational linear algebra, Nonlinear algebra, Random numbers ( MC simulations, Random walk model), Fourier series and Fourier transforms, PDEs & ODEs, IVP, BVP (Mesoscale methods)
+
+- title: Phase Transformations of Metals and Alloys
+  courseID: MS5140.2011.2
+  credits: 1
+  contents: Phase stability and free energy of mixing; free energy-composition diagrams and phase diagrams; defects and diffusion; nucleation and growth; liquid-solid, precipitation, disorder-order, spinodal and martensitic phase transformations.
+
+- title: Biomaterials- Materials in Medicine
+  courseID: MS5150
+  credits: 3
+  contents: Application of materials in medicine Introduction to structure and biological properties of cardiovascular, orthodontic, ophthalmic and soft tissues and requirement of implant materials Metallic Implants Physical, mechanical properties and corrosion behavior of metallic materials, surface modification, Implant design and processing, examples of bone, stents and surgical implants Ceramic and composite implants materials Chemical and structural and biological properties of ceramic materials, synthetic methods for ceramic and composite materials, Biomimetic approach towards composite design and bioresorbable implants, examples of ceramic and composite materials in orthodontic implants Polymeric materials Synthetic and biopolymers, chemical properties, thermomechanical behaviour, examples of polymeric materials in cardiovascular, ophthalmic and other soft tissue implant applications. Practical aspects of Implant materials Host tissue response, implant failure
+
+- title: Polymer Science and Engineering
+  courseID: MS5160
+  credits: 3
+  contents: The objective is to teach basics in polymer physics, relate it to polymer structure, processing and applications. This course also aims to introduce conventional characterisations techniques in context of polymers. \\ Introduction to polymers- synthetic and natural (wood, silk) , structure (states and configuration) of polymers- spring dash pod models - relaxation behaviour, structure - properties relationship and application, processing techniques and product development (eg fibre spinning), introduction to functional polymers (eg liquid crystalline polymers), characterisation- XRD, SAXS, SEM, TGA, DSC, flow in polymers- rheology, composites (natural and synthetic), networks and hydrogels
+
+- title: Thermodynamics and Kinetics of Materials
+  courseID: MS5170
+  credits: 3
+  contents: Concepts of classical and statistical thermodynamics - extensive and intensive properties - heat capacity, enthalpy, entropy and Gibbs free energy; Partial molar quantities - chemical potential, Gibbs-Duhem relations; Phase equilibrium in single component systems; Ideal and nonideal behavior of solutions; Gibbs free energy composition diagrams; Phase diagrams; Multicomponent phase equilibria; Irreversible thermodynamics - diffusion in continuum – continuity equation; Concepts of fields, fluxes and gradients; Fick's laws of diffusion – steady state and nonsteady state; Solutions to the diffusion equation; Atomic mechanisms of diffusion – random walk; Interstitial and substitutional diffusion; Solutions to diffusion equations; Interdiffusion – Kirkendall effect, Darken relations; Diffusion in multicomponent systems.
+
+- title: Applications of Electrochemistry in Materials Science and Engineering
+  courseID: MS5180
+  credits: 3
+  contents: Fundamental concepts of Electrochemistry, Electrical double layer and it’s importance, concepts of electrode potential, over potential and it’s practical implications, The Butler-Volmer equation, introduction to electrochemical analytical techniques like cyclic voltametry, electro chemical polarization and electrochemical impedance spectroscopy; Examples of applied electrochemistry:Batteries, Fuel Cells, the Lithium Ion Battery, applications in extractive metallurgy - electrowinning and other techniques like electrochemical deposition
+
+- title: Soft Materials
+  courseID: MS5190
+  credits: 3
+  contents: Introduction to ‘soft’ materials in terms of structure, property- Colloids, foams, gels, liquid crystals, soft biological materials such as DNA, and polymers (synthetic and natural) Structure (states and configuration) of polymers, synthesis, effect of temperature (glass transition and melting), branching, cross-linking on properties, crystallisation in polymers (types and mechanism), mechanical behaviour – viscoelasticity -spring dash pod models – relaxation behaviour (time and temperature effect) Self-assembly and Supramolecular organisation with reference to cellulose, silk, collagen and biological macromolecules
+
+- title: Phase Transformations
+  courseID: MS5200
+  credits: 3
+  contents: Phase stability and free energy of mixing; free energy-composition diagrams and phase diagrams; defects and diffusion; nucleation and growth; liquid-solid, precipitation, disorder-order, spinodal and martensitic phase transformations
+
+- title: Hierarchical Nanostructured Materials
+  courseID: MS5210
+  credits: 1
+  contents: Natural hierarchical materials - bone, nacre, butterfly wing and so on, Advantages of hierarchical nanostructural organisation - mechanical, colours, and other functional benefits
+
+- title: Nature Inspired Materials Engineering
+  courseID: MS5220
+  credits: 1
+  contents: Nature inspired material engineering and design for applications such as environment, energy and healthcare applications, bottom up assembly techniques and production, gap between natural and nature inspired materials
+
+- title: Nature Inspired Materials Engineering for Mechanical Applications
+  courseID: MS5230
+  credits: 1
+  contents: 1 Design and Fabrication methods for producing nature inspired materials with enhanced mechanical properties, including optimisation of toughness and strength like in nacre or bone, introduction to materials and their synthesis for actuation properties like muscle, selection and design of materials for regenerative medicine
+
+- title: Nature Inspired Materials Engineering for Wettability, Optical Tunability
+  courseID: MS5240
+  credits: 1
+  contents: Introduction of top down and bottom up fabrication techniques; Usage of combination of approaches to achieve tunability in wettability (similar to hydrophobicity of lotus) and optical properties such as reflection, colours (similar to peacock or moth’s eye) and interaction (adhesive properties of gecko’s foot)
+
+- title: Phase Stability in Alloy Design
+  courseID: MS5250
+  credits: 1
+  contents: Alloy thermodynamics, Analysis of phase stability, metastable and nonequilibrium transformations, phase stability in design of complex alloys
+
+- title: 2D Materials:Synthesis, Characterization and Applications
+  courseID: MS5270
+  credits: 3
+  contents: This course will cover the latest advances development of 2D materials. Specifically, we will study the new materials along with their potential for different applications. A non-trivial part will also be dedicated to learning about special characterization techniques required to study such materials. For example, a group of materials expected to be studied include Graphene and other 2D materials (MoS2, TeS2, WSe2 etc.). These materials have significant potential for future applications.
+
+- title: Wear and Tribology of Materials
+  courseID: MS5280
+  credits: 1
+  contents: Introduction to trobological systems and their characteristic features; analysis and assessment of surface; techniques of surface examination, friction and measurement, mechanism of wear, types of wear, quantitative laws of wear, measurement of wear, wear resistance materials
+
+- title: Plasmonics:Fundamentals to Advanced Applications
+  courseID: MS5290
+  credits: 3
+  contents: Introduction to nano-optics and plasmonics, Restrictions on materials for plasmonics, Localized plasmons, Effect of shape, size and material, Multiple particle assemblies - Analogy to molecular hybridization, Biosensing and molecular recognition (SERS/SEIRA), Molecular modification of nanoparticle surfaces, Nanofabrication using localized plasmons, Characterization techniques - Far-field techniques (BF/DF microscopy, Fourier plane imaging), near-field techniques (near-field scanning optical microsope), Propagating surface plasmons, Thin film plasmons:Special excitation geometries (Otto, Kretschmann, Sarid geometry), Biosensing - determination of binding constant, Surface plasmon imaging, Optical interconnects and plasmonic waveguides, Characterization techniques, Nano- and micro-fabrication techniques for realizing plasmonic nanostructures will also be covered.
+
+- title: Microstructural Design for Advanced Manufacturing
+  courseID: MS5300
+  credits: 3
+  contents: Concepts of microstructural elements and texture; microstructure-texture control strategies during manufacturing; severe plastic deformation processing, aspects of strength-ductility synergy; metastability and TRIP phenomena; stacking fault engineering and TWIP phenomenon; segregation engineering, heterogeneous microstructures, processing and mechanical behavior; microstructural design of multicomponent alloys; processing-microstructure-texture-properties landscape in 3-D printing of advanced alloys
+
+- title: Functional Ceramics
+  courseID: MS5310
+  credits: 3
+  contents: Special structures:Zinc blende, Rock salt, fluorites, perovskites, double perovskites, layered perovskites, pyrochlores and polymorphs, Transition metal oxides:Gas sensors, varistors, wide bandgap oxides, solid state electrolytes, ionic conductors. Piezoelectric ceramics:lead based and lead free piezoelectrics, piezoelectric coefficients, measurements and devices, Ferroelectric ceramics:ferroelectricity, domain theory, phenomenological and atomistic theory of ferroelectricity

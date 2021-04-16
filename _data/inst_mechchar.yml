@@ -1,0 +1,67 @@
+- name: Transmission electron microscope (TEM)
+  incharge: Institute Facility (Dr. S. R. K. Malladi & Dr. Subharadeep Chatterjee)
+  email: srkm
+
+- name: Scanning electron microscope (SEM with EBSD and EDS)
+  incharge: Prof. P. P. Bhattacharjee
+  email: pinakib
+
+- name: Upright microscope (Leica)
+  incharge: Dr. Subhradeep Chatterjee
+  email: subhradeep
+
+- name: Nanoindentor
+  incharge: Dr. Rajesh Korla
+  email: rajeshk
+
+- name: Ion-milling
+  incharge: Dr. S. R. K. Malladi
+  email: srkm
+
+- name: PIPS
+  incharge: Dr. S. R. K. Malladi
+  email: srkm
+
+- name: Universal testing machine - MTS
+  incharge: Prof. P. P. Bhattacharjee
+  email: pinakib
+
+- name: Universal testing machine - Instron
+  incharge: Prof. S. R. Dey
+  email: suhash
+
+- name: Hardness tester
+  incharge: Dr. Rajesh Korla
+  email: rajeshk
+
+- name: Impact testing machine
+  incharge: Dr. Rajesh Korla
+  email: rajeshk
+
+- name: Wear (Pin-on-disk)
+  incharge: Prof. B. B. Panigrahi
+  email: bharat
+
+- name: TGA
+  incharge: Prof. B. B. Panigrahi
+  email: bharat
+
+- name: DSC
+  incharge: Prof. S. R. Dey
+  email: suhash
+
+- name: DTA
+  incharge: Prof. B. B. Panigrahi
+  email: bharat
+
+- name: Dilatometer
+  incharge: Prof. B. B. Panigrahi
+  email: bharat
+
+- name: Glass vacuum sealing
+  incharge:  Prof. S. R. Dey
+  email: suhash
+
+- name: EDM Wire cutting
+  incharge: Prof. P. P. Bhattacharjee
+  email: pinakib

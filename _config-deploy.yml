@@ -1,0 +1,93 @@
+####################################################################
+# Be cautious while editing this file; this is LIVE deployment file  #
+####################################################################
+
+# Edit this page to update Department name and few other configurations.
+
+
+title: Materials Science & Metallurgical Engineering
+subtitle:
+description: >- # this means to ignore newlines until "baseurl:"
+author: MSME
+logo: assets/images/favicon.png
+
+baseurl: ""
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+facebook_url:
+github_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Allow future posts
+future: true
+
+# The following settings are NECESSARY for the Prologue theme to run:
+theme: jekyll-theme-prologue
+
+# Collections
+collections_dir: sections
+collections:
+  homepage_includes:
+    output: true
+  academics:
+    output: true
+  admissions:
+    output: true
+  people:
+    output: true
+  custom:
+    output: true
+  research:
+    output: true
+  # industry:
+  #   output: true
+  outreach:
+    output: true
+  talks:
+    output: true
+  news:
+    output: true
+  highlights:
+    output: true
+
+sass:
+  # loading path from site root
+  # default to _sass
+  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
+
+  # style : nested (default), compact, compressed, expanded
+  #         :nested, :compact, :compressed, :expanded also works
+  # see http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # on a typical twitter bootstrap stats are :
+  # nested 138,7kB, compact 129,1kB, expanded 135,9 kB, compressed 122,4 kB
+  style: compressed
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
+## Jekyll Scholar Config
+scholar:
+  style: _bib/ieee.csl
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  group_by: year
+
+  source: ./_bib
+  sort_by: year
+  group_by: year
+  group_order: descending
+  reference_tagname: div
+  bibliography_template: bib
+  # use_raw_bibtex_entry: true

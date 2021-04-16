@@ -1,0 +1,140 @@
+<!--
+###########################################################################
+###############                                             ###############
+############### Edit this page for Left side bar menu items ###############
+###############                                             ###############
+###########################################################################
+
+-->
+
+<!-- Nav -->
+<nav id="nav">
+  <ul>
+    <li>
+      <a href="{{ '' | absolute_url }}/" class="single">
+        <i class="fa fa-home"></i>Homepage</a></li>
+    <li>
+      <button class="
+        dropdown-btn
+        {% if page.collection == 'academics' %}
+          dropdownactive
+        {% endif %}">
+        <i class="fa fa-graduation-cap"></i>Academics
+      </button>
+      <div class="dropdown-tabs"
+           {% if page.collection == 'academics' %}
+           style="display:block"
+           {% endif %}
+      >
+        {% for subsection in site.academics %}
+          <a href="{{ subsection.url | absolute_url }}">{{ subsection.title }}</a>
+        {% endfor %}
+      </div>
+    </li>
+    <li>
+      <button class="
+        dropdown-btn
+        {% if page.collection == 'admissions' %}
+          dropdownactive
+        {% endif %}">
+        <i class="fa fa-user-plus"></i>Admissions
+      </button>
+      <div class="dropdown-tabs"
+           {% if page.collection == 'admissions' %}
+           style="display:block"
+           {% endif %}
+      >
+        {% for subsection in site.admissions %}
+          <a href="{{ subsection.url | absolute_url }}">{{ subsection.title }}</a>
+        {% endfor %}
+      </div>
+    </li>
+    <li>
+      <button class="
+        dropdown-btn
+        {% if page.collection == 'people' %}
+          dropdownactive
+        {% endif %}">
+        <i class="fa fa-users"></i>People
+      </button>
+      <div class="dropdown-tabs"
+           {% if page.collection == 'people' %}
+           style="display:block"
+           {% endif %}
+      >
+        {% for subsection in site.people %}
+        {% if subsection.display == true %}
+          <a href="{{ subsection.url | absolute_url }}">{{ subsection.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </li>
+    <!-- About research -->
+    <li>
+      <button class="
+        dropdown-btn
+        {% if page.collection == 'research' %}
+          dropdownactive
+        {% endif %}">
+        <i class="fa fa-book"></i>Research
+      </button>
+      <div class="dropdown-tabs"
+           {% if page.collection == 'research' %}
+           style="display:block"
+           {% endif %}
+      >
+        {% for subsection in site.research %}
+        {% if subsection.display == true %}
+          <a href="{{ subsection.url | absolute_url }}">{{ subsection.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </li>
+    <!-- About industry -->
+    <!-- <li>
+      <button class="
+        dropdown-btn
+        {% if page.collection == 'industry' %}
+          dropdownactive
+        {% endif %}">
+        <i class="fa fa-book"></i>Industry Collaboration
+      </button>
+      <div class="dropdown-tabs"
+           {% if page.collection == 'industry' %}
+           style="display:block"
+           {% endif %}
+      >
+        {% for subsection in site.industry %}
+        {% if subsection.display == true %}
+          <a href="{{ subsection.url | absolute_url }}">{{ subsection.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </li> -->
+<!-- % Outreach -->
+    <li>
+      <button class="
+        dropdown-btn
+        {% if page.collection == 'outreach' %}
+          dropdownactive
+        {% endif %}">
+        <i class="fa fa-book"></i>Outreach
+      </button>
+      <div class="dropdown-tabs"
+           {% if page.collection == 'outreach' %}
+           style="display:block"
+           {% endif %}
+      >
+        {% for subsection in site.outreach %}
+        {% if subsection.display == true %}
+          <a href="{{ subsection.url | absolute_url }}">{{ subsection.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </li>
+
+    <!-- <li><a href="{{ 'customdirect.html' | absolute_url }}" class="single"><i class="fa fa-user-plus"></i>Custom Direct Menu</a></li> -->
+    <li><a href="{{ 'facultyJoin.html' | absolute_url }}" class="single"><i class="fa fa-user-plus"></i>Join As Faculty</a></li>
+    <li><a href="{{ 'contact-us.html' | absolute_url }}" class="single"><i class="fa fa-phone"></i>Contact Us</a></li>
+  </ul>
+</nav>

@@ -1,0 +1,21 @@
+###############################################################
+###############                                 ###############
+############### Edit this page for quick links  ###############
+###############                                 ###############
+###############################################################
+
+- name: Departmental brochure
+  link: /assets/docs/MSME_PhD_Brochure_July_2020.pdf
+  direct: false
+- name: Ph.D. Admissions July 2020
+  link: https://www.iith.ac.in/phdadmissions/
+  direct: true
+- name: M.Tech. Admissions July 2020
+  link: https://iith.ac.in/mtechadmissions/
+  direct: true
+# - name: B.Tech AI
+#   link: https://ai.iith.ac.in
+#   direct: true
+# - name: MTech in Data Science (CSE)
+#   link: https://cse.iith.ac.in/admissions/mtechInDataScience.html
+#   direct: true

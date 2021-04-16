@@ -1,0 +1,276 @@
+/*
+css: overall
+ */
+
+:root {
+  --bannersize: 100px;
+}
+
+:target {
+  padding-top: 100px;
+}
+
+body {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+body p {
+  font-size: 1em;
+}
+
+strong {
+  font-weight: bold !important;
+}
+
+#nav {
+  margin-top: var(--bannersize);
+  z-index: 1;
+}
+
+#main {
+  padding-top: var(--bannersize);
+}
+
+#main > section {
+  padding-top: 0;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+.icons a:hover {
+  color: #471118 !important;
+}
+
+.blog > section,
+article {
+  box-shadow: none;
+}
+
+.blog h2 > a:hover {
+  color: #4e001c;
+}
+
+.read-more {
+  border-bottom: solid 1px rgba(100, 100, 100) !important;
+}
+
+.read-more:hover {
+  text-decoration: none !important;
+  color: #4e001c;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 0 0 0.5em 0;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+h5 {
+  font-size: 0.9em;
+}
+
+h6 {
+  font-size: 0.7em;
+}
+
+p {
+  font-size: 1em;
+}
+
+header {
+  margin: 0;
+}
+
+hr {
+  margin-top: 17px;
+  margin-bottom: 17px;
+}
+/* Rules for Timetable iframe in academics/timeTable.md */
+#timeTable {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}
+
+.no-top-margin {
+  margin-top: 0 !important;
+}
+
+.blog {
+  background-color: #f5fafa;
+}
+
+/* Homepage Carousel */
+.carousel-control.left {
+  background-image: none;
+}
+
+.carousel-control.right {
+  background-image: none;
+}
+
+#home_carousel {
+  width: 50%;
+  padding: 20;
+  margin: 0 auto;
+}
+
+/* min-width media queries starts */
+@media only screen and (min-width: 1150px) {
+  #header {
+    width: 18%;
+  }
+  #main {
+    width: 82%;
+    margin-left: 18%;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #footer {
+    margin-left: 18%;
+  }
+}
+
+@media only screen and (min-width: 1420px) {
+  #header {
+    width: 15%;
+  }
+  #main {
+    width: 85%;
+    margin-left: 15%;
+    margin-right: 0;
+  }
+  #footer {
+    margin-left: 15%;
+  }
+}
+
+@media only screen and (min-width: 1660px) {
+  #header {
+    width: 13%;
+  }
+  #main {
+    width: 87%;
+    margin-left: 13%;
+    margin-right: 0;
+  }
+  #footer {
+    margin-left: 13%;
+  }
+}
+
+@media only screen and (min-width: 2150px) {
+  #header {
+    width: 11%;
+  }
+  #main {
+    width: 89%;
+    margin-left: 11%;
+    margin-right: 0;
+  }
+  #footer {
+    margin-left: 11%;
+  }
+}
+
+@media only screen and (min-width: 2350px) {
+  #header {
+    width: 9%;
+  }
+  #main {
+    width: 91%;
+    margin-left: 9%;
+    margin-right: 0;
+  }
+  #footer {
+    margin-left: 9%;
+  }
+}
+/* min-width media queries ends */
+
+/* max-width media queries starts */
+@media screen and (max-width: 1680px) {
+  h1 {
+    font-size: 2.5em;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  #nav {
+    margin-top: 0;
+  }
+  h1 {
+    font-size: 2.5em;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  h1 {
+    font-size: 2em;
+    line-height: 1.4;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  #home_carousel {
+    width: 550px;
+    height: 310px;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  #home_carousel {
+    width: 470px;
+    height: 265px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  #home_carousel {
+    width: 400px;
+    height: 225px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  #home_carousel {
+    width: 350px;
+    height: 197px;
+  }
+}
+
+/* max-width media queries ends */
+
+/* max and min queries starts here */
+
+@media screen and (max-width: 1620px) and (min-width: 961px) {
+  .row {
+    margin: -20px 0 -1px -20px;
+  }
+}
+
+@media screen and (max-width: 1880px) and (min-width: 961px) {
+  .row {
+    margin: -20px 0 -1px -20px;
+  }
+}
+
+/* max and min queries ends here */
